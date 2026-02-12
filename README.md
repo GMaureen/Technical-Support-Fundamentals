@@ -53,7 +53,7 @@ Screenshots are included to show each step of the process.
 
 ## 5 Troubleshooting Step 2
 - **Step:** Enabled the network adapter to restore connection
-- **Screenshot:** !https://github.com/GMaureen/Technical-Support-Fundamentals/blob/2121a25d431fdd6fff22a3c5d9dcd5b8a01d189f/Figure5_Trableshooting_Step2.png
+- **Screenshot:** ![Figure 5 – Troubleshooting Step 2](Figure5_Troubleshooting_Step2.png)
 *Shows network adapter re-enabled and ready to reconnect.*
 
 ---
