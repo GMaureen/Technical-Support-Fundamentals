@@ -16,7 +16,7 @@ Screenshots are included to show each step of the process.
 
 ---
 
-## #1 System Specifications
+## 1 System Specifications
 - **Processor (CPU):** 12th Gen Intel(R) Core(TM) i5-1235U (1.30 GHz)
 - **RAM:** 8.00 GB (7.73 GB usable)
 - **Windows Version:** Windows 11, 64-bit
