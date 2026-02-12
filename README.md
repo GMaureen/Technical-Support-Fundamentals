@@ -8,6 +8,15 @@
 
 ---
 
+## Introduction
+
+This practical report demonstrates basic IT support skills.
+The task included checking system specifications, testing network connectivity, 
+simulating an internet issue, and troubleshooting the problem.
+Screenshots are included to show each step of the process.
+
+---
+
 ## #1 System Specifications
 - **Processor (CPU):** 12th Gen Intel(R) Core(TM) i5-1235U (1.30 GHz)
 - **RAM:** 8.00 GB (7.73 GB usable)
