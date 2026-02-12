@@ -3,7 +3,6 @@
 # IT Support Practical Report – Technical Support Fundamentals
 
 **Name:** Galaletsang Mokgele
-**Date:** 10 February 2026
 **System Used:** Windows
 
 ---
