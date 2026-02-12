@@ -28,7 +28,7 @@ Screenshots are included to show each step of the process.
 
 ## #2 Network Status (Before Issue)
 - **Network Type:** Wi-Fi
-- **IP Address:** 192.168.1.5 *(example; check your own using `ipconfig`)*
+- **IP Address:** 192.168.1.5 
 - **Connection Status:** Connected
 - **Test Performed:** `ping google.com`
 - **Result:** Successful replies
